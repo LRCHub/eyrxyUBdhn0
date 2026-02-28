@@ -1,0 +1,43 @@
+# UNGU – Sejauh Mungkin
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.40] Lelah hati yang tak kau lihat
+[00:11.87] Andai saja dapat kau rasakan
+[00:17.43] Letihnya jiwaku kar'na sifatmu
+[00:32.43] 
+[00:28.26] Indah cinta yang kau berikan
+[00:33.67] Kini tiada lagi kudapatkan
+[00:40.41] Teduhnya jiwa
+[00:46.91] 
+[00:49.79] Baiknya ku pergi
+[00:54.23] Tinggalkan dirimu sejauh mungkin
+[01:05.33] Untuk melupakan
+[01:12.27] Oh-oh
+[01:14.77] 
+[01:25.42] Indah cinta yang kau berikan
+[01:30.73] Kini tiada lagi kudapatkan
+[01:37.75] Teduhnya jiwa
+[01:44.25] 
+[01:44.13] Baiknya ku pergi
+[01:49.09] Tinggalkan dirimu sejauh mungkin
+[01:59.99] Untuk melupakan
+[02:07.49] 
+[02:05.99] Dirimu yang s'lalu tak pedulikanku
+[02:16.16] Yang mencintaimu
+[02:21.57] Yang menyayangimu
+[02:30.07] 
+[02:31.33] Bila saat nanti aku jauh
+[02:39.34] Kuharap kau mengerti
+[02:45.34] Kuharap kau sadari
+[02:54.34] 
+[03:14.12] Baiknya ku pergi
+[03:18.87] Tinggalkan dirimu sejauh mungkin
+[03:29.78] Untuk melupakan
+[03:37.28] 
+[03:35.90] Dirimu yang s'lalu tak pedulikanku
+[03:46.14] Yang mencintaimu, oh
+[03:51.60] Yang menyayangimu, ho-wo-oh
+[03:58.77] Oh-oh
+```
