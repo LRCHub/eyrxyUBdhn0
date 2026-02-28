@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Sejauh Mungkin",
+  "base_artist": "UNGU",
+  "createdAt": "2026-02-28T19:21:09.256898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sejauh Mungkin",
+      "artist": "Ungu",
+      "has_synced": true,
+      "path": "select/01_Sejauh_Mungkin_Ungu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sejauh Mungkin",
+      "artist": "Ungu - www.fullalbummp3.net",
+      "has_synced": true,
+      "path": "select/02_Sejauh_Mungkin_Ungu_-_www.fullalbummp3.net.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "12 Sejauh Mungkin",
+      "artist": "UNGU",
+      "has_synced": true,
+      "path": "select/03_12_Sejauh_Mungkin_UNGU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sejauh Mungkin (Live at SRN The Greatest Composer)",
+      "artist": "Tami Aulia",
+      "has_synced": true,
+      "path": "select/04_Sejauh_Mungkin_(Live_at_SRN_The_Greatest_Composer)_Tami_Aulia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sejauh Mungkin",
+      "artist": "Ungu",
+      "has_synced": false,
+      "path": "select/pl_01_Sejauh_Mungkin_Ungu.txt"
+    }
+  ]
+}
